@@ -2,8 +2,8 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
-Nombre Apellido \[No control]: Brianna Vanessa Lopez Pardo \[22212261]; correo1@tectijuana.edu.mx
+## Infromación de la estudiante
+Brianna Vanessa Lopez Pardo \[22212261]; l22212261@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
