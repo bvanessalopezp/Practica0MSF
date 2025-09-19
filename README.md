@@ -36,8 +36,8 @@ Un circuito RLC representa un sistema de segundo orden que modeliza, de manera s
 
 Palabras clave: Circuito RLC; Controlador PID; Sistema respiratorio; Modelo matemáticos; Simulaciones numéricas.
 
-1. Cuaderno computacional de MATLAB [.mlx].
 ## Lista de archivos incluidos en el repositorio
+1. Cuaderno computacional de MATLAB [.mlx].
 2. Modelo de Simulink [.slx].
 3. Archivos de Spyder [.py].
 4. Imagen con los parámetros del controlador.
